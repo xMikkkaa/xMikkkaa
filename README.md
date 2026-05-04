@@ -10,12 +10,12 @@ Software engineering person interested in Android development and systems progra
 ---
 
 ### 🛠️ Tech Stack & Tools
-![Rust](https://img.shields.io/badge/rust-%23E05D44.svg?style=flat&logo=rust&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=61DAFB)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+[![Rust](https://img.shields.io/badge/rust-%23E05D44.svg?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)
 
 ---
 
