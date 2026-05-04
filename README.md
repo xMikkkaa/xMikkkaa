@@ -1,9 +1,9 @@
 <H1 align="center">Hello, xMikkkaa's Here.</H1>
 
 ### 👨‍💻 About Me
-Software engineering person interested in Android development and systems programming.
+Software engineering person interested in Android development, systems, and Web Dev programming.
 
-*   **Current focus:** Learning and building projects with Rust and Kotlin.
+*   **Current focus:** Still learning and exploring my tech stack.
 *   **Hobbies:** Exploring Linux environments and Android modding (KernelSU, Magisk).
 *   **Environment:** Keyboard-driven workflow on CachyOS Linux using KDE Plasma.
 
@@ -21,7 +21,7 @@ Software engineering person interested in Android development and systems progra
 
 ### 📊 GitHub Statistics
 
-![xMikkkaa's Stats](https://github-stats-one-lime.vercel.app/api?username=xMikkkaa&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide=stars,prs&cache_seconds=0)
+![xMikkkaa's Stats](https://github-stats-one-lime.vercel.app/api?username=xMikkkaa&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide=stars,prs&hide_rank=true&cache_seconds=0)
 
 ![xMikkkaa's Top Languages](https://github-stats-one-lime.vercel.app/api/top-langs/?username=xMikkkaa&layout=compact&theme=onedark&langs_count=10&hide=html,css,javascript,php,blade&cache_seconds=1800)
 
