@@ -23,7 +23,7 @@ Software engineering person interested in Android development, systems, and Web 
 
 ![xMikkkaa's Stats](https://github-stats-one-lime.vercel.app/api?username=xMikkkaa&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide=stars,prs&hide_rank=true&cache_seconds=0)
 
-![xMikkkaa's Top Languages](https://github-stats-one-lime.vercel.app/api/top-langs/?username=xMikkkaa&layout=compact&theme=onedark&langs_count=10&hide=html,css,javascript,php,blade&cache_seconds=1800)
+![xMikkkaa's Top Languages](https://github-stats-one-lime.vercel.app/api/top-langs/?username=xMikkkaa&layout=compact&theme=onedark&langs_count=10&cache_seconds=1800)
 
 ![xMikkkaa's Streak](https://streak-stats.demolab.com?user=xMikkkaa&theme=onedark)
 
